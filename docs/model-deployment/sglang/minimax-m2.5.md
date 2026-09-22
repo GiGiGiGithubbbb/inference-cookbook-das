@@ -121,7 +121,7 @@ export GLIBC_TUNABLES=glibc.rtld.optional_static_tls=0x40000
 export HSA_FORCE_FINE_GRAIN_PCIE=1
 export SGLANG_ROCM_USE_AITER_MOE=0
 export SGLANG_USE_LIGHTOP=1
-export SGLANG_TORCH_PROFILER_DIR=/public/home/yuchenyang/workspace/minimaxM2.5_PD/prof/dp8-prefill
+export SGLANG_TORCH_PROFILER_DIR=/home/profile
 export VLLM_USE_LIGHTOP_MOE_ALIGN=1
 export LMSLIM_USE_LIGHTOP=1
 export SGLANG_KVALLOC_KERNEL=1
@@ -178,7 +178,7 @@ export SGL_CHUNKED_PREFIX_CACHE_THRESHOLD=0
 export SGLANG_DISAGGREGATION_BOOTSTRAP_TIMEOUT=1200
 export GLIBC_TUNABLES=glibc.rtld.optional_static_tls=0x40000
 export SGLANG_USE_LIGHTOP=1
-export SGLANG_TORCH_PROFILER_DIR=/public/home/yuchenyang/workspace/minimaxM2.5_PD/prof/dp8-decode
+export SGLANG_TORCH_PROFILER_DIR=/home/profile
 export SGLANG_ROCM_USE_AITER_MOE=0
 export VLLM_USE_LIGHTOP_MOE_ALIGN=1
 export LMSLIM_USE_LIGHTOP=1
@@ -300,7 +300,7 @@ export GLIBC_TUNABLES=glibc.rtld.optional_static_tls=0x40000
 export HSA_FORCE_FINE_GRAIN_PCIE=1
 export SGLANG_ROCM_USE_AITER_MOE=0
 export SGLANG_USE_LIGHTOP=1
-export SGLANG_TORCH_PROFILER_DIR=/public/home/yuchenyang/workspace/minimaxM2.5_PD/prof/dp8-prefill
+export SGLANG_TORCH_PROFILER_DIR=/home/profile
 export VLLM_USE_LIGHTOP_MOE_ALIGN=1
 export LMSLIM_USE_LIGHTOP=1
 export SGLANG_KVALLOC_KERNEL=1
@@ -357,7 +357,7 @@ export SGL_CHUNKED_PREFIX_CACHE_THRESHOLD=0
 export SGLANG_DISAGGREGATION_BOOTSTRAP_TIMEOUT=1200
 export GLIBC_TUNABLES=glibc.rtld.optional_static_tls=0x40000
 export SGLANG_USE_LIGHTOP=1
-export SGLANG_TORCH_PROFILER_DIR=/public/home/yuchenyang/workspace/minimaxM2.5_PD/prof/dp8-decode
+export SGLANG_TORCH_PROFILER_DIR=/home/profile
 export SGLANG_ROCM_USE_AITER_MOE=0
 export VLLM_USE_LIGHTOP_MOE_ALIGN=1
 export LMSLIM_USE_LIGHTOP=1
